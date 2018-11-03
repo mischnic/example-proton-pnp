@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "proton-native": "mischnic/proton-native#napi"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}
