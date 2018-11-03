@@ -1,4 +1,4 @@
-# Using proton-native with Yarn Plug'n'Play
+# Yarn Plug'n'Play issue
 
 ## Install
 
